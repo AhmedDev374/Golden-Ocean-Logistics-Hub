@@ -1,0 +1,10 @@
+http://localhost:5000/api/orders?type=json
+
+http://localhost:5000/api/orders
+
+
+PS D:\desktop_2025\summary\DevOps_Projects\golden-ocean-logistics> docker exec -it golden-ocean-logistics-db-1 psql -U postgres -d golden_db
+
+golden_db=# SELECT * FROM orders;
+ id | ship_name | status | signature_data | report_text | delivery_date
+----+-----------+--------+----------------+-------------+---------------

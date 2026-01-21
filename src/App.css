@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #121212;
+  color: white;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.mobile-container {
+  max-width: 480px; /* Forces mobile width */
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: #1e1e1e;
+  position: relative;
+  padding-bottom: 80px;
+}
+
+header {
+  background: #2c2c2c;
+  padding: 15px;
+  text-align: center;
+  border-bottom: 2px solid #FFC107;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+h1 { margin: 0; font-size: 18px; color: #FFC107; }
+
+.card {
+  background: #2c2c2c;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+.btn-primary {
+  width: 100%;
+  padding: 15px;
+  background: #FFC107;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.signature-pad {
+  background: white;
+  border-radius: 8px;
+  height: 200px;
+  margin-bottom: 15px;
+}
