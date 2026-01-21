@@ -70,7 +70,6 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository  
    ```bash
    git clone https://github.com/AhmedDev374/Golden-Ocean-Logistics-Hub.git
-````
 
 2. Navigate to the backend folder
 
@@ -220,21 +219,4 @@ This project is licensed under the **MIT License**.
 
 ⭐ **If you find this project helpful, please give it a star!**
 
-`````
-
----
-
-### ✅ What I fixed
-- Broken code blocks (```` → ``` )  
-- Markdown alignment & spacing  
-- Clearer section titles  
-- Consistent bullet styles  
-- Cleaner GitHub-ready formatting  
-
-If you want, I can now:
-- Add **badges** (Node, MongoDB, License, Stars)
-- Match it **exactly** to your Amazon-Clone style
-- Shorten it for recruiters / DevOps portfolio
-
-Just tell me 👌
 `````
