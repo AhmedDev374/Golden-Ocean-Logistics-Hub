@@ -1,5 +1,3 @@
-Here’s a **professional & complete `README.md`** for your **Golden-Ocean-Logistics-Hub** project — styled similarly to your **Amazon-Clone** repo!
-
 ---
 
 ````markdown
