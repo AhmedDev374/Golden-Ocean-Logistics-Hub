@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🚢 Golden Ocean Logistics Hub
 
 Welcome to **Golden Ocean Logistics Hub** — a full-stack logistics management platform designed to streamline freight operations, track shipments, manage inventory, and provide real-time status updates for logistics businesses.
