@@ -203,9 +203,14 @@ Please read **CONTRIBUTING.md** if available.
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the **MIT License**.
+© 2026 AhmedDev374. All rights reserved.
+
+This project is proprietary.
+No part of this repository may be copied, modified, distributed,
+or used commercially without explicit written permission.
+
 
 ---
 
@@ -216,7 +221,5 @@ This project is licensed under the **MIT License**.
 🔗 GitHub: [https://github.com/AhmedDev374](https://github.com/AhmedDev374)
 
 ---
-
-⭐ **If you find this project helpful, please give it a star!**
 
 `````
